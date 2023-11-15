@@ -1,34 +1,10 @@
 # MI SITIO WEB
-Modificacion desde github
-## Titulo 2
-### Titulo 3
+Presentacion del ejercicio de github
 
 ---
-
-- Primer punto.
-- **``Mi segundo``** punto de ejemplo
-
-```cmd
-npx gh-pages -d .
-```
-
-Comandos básicos:
-```
-git status
-git add
-git commit
-```
-
-> Nota
->
-> [Google](https://google.com/)
->
-> ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
 ## Tareas
 
-- [ ] #739
+- [ ] Realizar cambios en el README.md de la rama v1.
 
 
 
